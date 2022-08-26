@@ -1,0 +1,61 @@
+th{
+   text-align:center;
+}
+.action{
+    width: 34%;
+}
+.Department,.Degisignation {
+    width: 12%;
+}
+
+table{
+    margin-bottom: 0px;
+}
+.btnExpand ,.btnMoment,.btnSubmit{
+    background-color: darkblue;
+}
+
+.btnExpand{
+    margin: 12px;
+
+}
+.btnSubmit{
+    margin: 10px;
+}
+.btnMoment{
+margin-left: 200px;
+}
+.tblrow{
+    border: 0px white;
+}
+label{
+margin-left: 20px;
+    
+}
+.tblFinance{
+    border:none;
+    border-collapse: collapse;
+    color:  rgb(248, 176, 22);
+}
+.thFinance{
+    border-right: 1px solid #000;
+}
+.txt{
+    border-left: 2px solid #000;
+    height: 25px;
+    margin:3px;
+    font-size: bold;
+}
+.divFinancial{
+    display: flex;
+    color:  rgb(248, 176, 22);
+    margin-left:1300px;
+}
+.btnPlus{
+    border: none;
+    color: #000;
+    font-size: larger;
+    
+}
+
+
